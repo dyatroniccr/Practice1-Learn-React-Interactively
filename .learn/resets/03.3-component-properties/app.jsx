@@ -24,4 +24,3 @@ BootstrapCard.propTypes = {
 
 
 // 3) Use ReactDOM to add the component into then DOM element #myDiv
-ReactDOM.render(<BootstrapCard/>, document.querySelector("#myDiv"));
